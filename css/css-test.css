@@ -1,0 +1,7 @@
+/* Freebie Reset */
+body, p, header, form, input, select, h1, h2, ul, li {
+	margin:0;
+	padding:0;
+	line-height: 1;
+	font-family: Arial, Verdana, sans-serif;
+}
