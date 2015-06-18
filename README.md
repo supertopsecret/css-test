@@ -15,4 +15,5 @@ Using the provided HTML and CSS files, create the layout matching one of the inc
 - The finished layout should match image colors generally, but be consistent. An exact color match is unnecessary, however, expert level CSS devs should understand how to get a general color or shade using rgb() or HEX Codes. 
 - The finished layout should not use CSS breakpoints
 - Progress can be checked at any time with a browser refresh of the test html page.
-- At no time should search engines or other reference materials be used, with the exception of color codes for the non-expert level tests.
+- Try to not use search engines or other reference materials , with the exception of obtaining color codes for the non-expert level tests.
+- Submitted code must be justified by candidate.
