@@ -3,9 +3,9 @@
 This is a CSS test designed to evaluate the skill a candidate posses with regard to CSS layout and appearance. It is not meant to test CSS3 capabilities or more cutting edge CSS. There are 3 different images included in this test, each of varying difficulty to emulate. A developer can gauge their skill based on which image they are able to duplicate. 
 ## Task
 Using the provided HTML and CSS files, create the layout matching one of the included images
- - Expert Level Dev Test: [final-expert.png](css-test/final-expert.png)
- - Senior Level Dev Test: [final-senior.png](css-test/final-senior.png)
- - Mid Level Dev Test: [final-mid-level.png](css-test/final-mid-level.png)
+ - Expert Level Dev Test: [final-expert.png](final-expert.png)
+ - Senior Level Dev Test: [final-senior.png](final-senior.png)
+ - Mid Level Dev Test: [final-mid-level.png](final-mid-level.png)
 
 ## Guidelines
 - The HTML markup may not be modified in any way
